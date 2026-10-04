@@ -1,8 +1,5 @@
 # CMP 262 — Project 1: Fall 2026 Survey Data Cleaning
 
-**Due: Module 5**  
-**Points: 20**
-
 ## Objective
 
 Use pandas to explore and clean two current CCM computing survey datasets. The purpose is to prepare reliable, analysis-ready data that can support a future study of student recruitment and enrollment.
