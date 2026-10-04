@@ -1,4 +1,4 @@
-# CMP 262 — Project 2, Part 1: Fall 2026 Survey Data Cleaning
+# CMP 262 — Project 1: Fall 2026 Survey Data Cleaning
 
 **Due: Module 5**  
 **Points: 20**
@@ -16,11 +16,11 @@ The two populations are:
 
 1. Select **Use this template → Create a new repository**.
 2. Choose your personal GitHub account as the owner.
-3. Name the repository `LastName-FirstName-CMP262-Project02-Part01`.
+3. Name the repository `LastName-FirstName-CMP262-Project01`.
 4. Set the repository to **Public** and create it.
 5. Clone **your new repository**, not the instructor repository.
 6. Open the cloned folder in Visual Studio Code.
-7. Open `Project02-Part01-DataCleaning.ipynb`.
+7. Open `Project01-DataCleaning.ipynb`.
 8. Select a Python kernel with pandas installed.
 9. Complete and run every notebook section.
 10. Complete `AI-Use-Report.md`.
@@ -76,7 +76,7 @@ All required data operations must be performed with pandas. You are not expected
 
 Your repository must contain:
 
-- Completed `Project02-Part01-DataCleaning.ipynb`
+- Completed `Project01-DataCleaning.ipynb`
 - Two original CSV files in `data/`
 - Two cleaned CSV files in `cleaned-data/`
 - Completed `AI-Use-Report.md`
@@ -88,7 +88,7 @@ Run all cells from top to bottom before submitting. Confirm that the latest note
 ```bash
 git status
 git add .
-git commit -m "Complete Project 2 Part 1 data cleaning"
+git commit -m "Complete Project 1 data cleaning"
 git push
 ```
 
