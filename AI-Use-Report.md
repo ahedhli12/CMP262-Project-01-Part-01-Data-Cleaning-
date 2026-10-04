@@ -2,7 +2,7 @@
 
 **Student name:**  
 **Date:**  
-**Assignment:** CMP 262 Project 2, Part 1 — Data Cleaning with pandas
+**Assignment:** CMP 262 Project 1 — Data Cleaning with pandas
 
 ## 1. AI Tools Used
 
