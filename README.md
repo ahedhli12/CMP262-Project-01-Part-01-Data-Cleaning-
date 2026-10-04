@@ -95,16 +95,7 @@ Blackboard Ultra is the official submission location. Include the link to your p
 
 **Uploading work to GitHub alone does not count as submitting the assignment.**
 
-## Grading — 20 Points
 
-| Area | Points |
-|---|---:|
-| Load and explore both datasets | 4 |
-| Clean columns, encoding, missing data, categories, and redundancies | 7 |
-| Compare structures and prepare two analysis-ready datasets | 4 |
-| Save and verify both required cleaned CSV files | 3 |
-| Notebook documentation and AI-use report | 2 |
-| **Total** | **20** |
 
 ## Data Responsibility
 
