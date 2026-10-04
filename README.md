@@ -5,7 +5,7 @@
 
 ## Objective
 
-Use Python and pandas to explore and clean two current CCM computing survey datasets. The purpose is to prepare reliable, analysis-ready data that can support a future study of student recruitment and enrollment.
+Use pandas to explore and clean two current CCM computing survey datasets. The purpose is to prepare reliable, analysis-ready data that can support a future study of student recruitment and enrollment.
 
 The two populations are:
 
@@ -38,22 +38,21 @@ Do not overwrite or manually edit the original CSV files.
 
 ## Required Work
 
-Use pandas to:
+Use pandas to complete the following work:
 
 1. Read both CSV files into separate DataFrames.
 2. Explore shape, columns, sample rows, data types, missing values, duplicates, and important category counts.
 3. Show exploration results in separate notebook cells.
 4. Rename columns using clear lowercase `snake_case` names.
-5. Identify and repair text-encoding issues where possible.
+5. Identify unusual text or inconsistent spelling and correct it with pandas when appropriate.
 6. Select features that are useful for studying recruitment and enrollment.
 7. Remove irrelevant or redundant features and explain your decisions.
 8. Clean and condense inconsistent values, including major and race/ethnicity categories when appropriate.
-9. Compare the majors and non-majors survey structures.
-10. Identify comparable features even when their wording differs.
-11. Keep each population in its own cleaned DataFrame.
-12. Validate shapes, columns, missing values, duplicates, data types, and category values.
-13. Save the two cleaned datasets in `cleaned-data/`.
-14. Read the saved files back into pandas and verify them.
+9. Compare the majors and non-majors survey columns using pandas.
+10. Keep each population in its own cleaned DataFrame.
+11. Validate shapes, columns, missing values, duplicates, data types, and category values.
+12. Save the two cleaned datasets in `cleaned-data/`.
+13. Read the saved files back into pandas and verify them.
 
 ## Required Output Files
 
@@ -71,7 +70,7 @@ Use Markdown cells to include:
 - Reasons for dropping, renaming, grouping, or realigning features
 - A final summary of cleaning decisions and remaining limitations
 
-All data operations must be performed with Python and pandas. Do not manually clean the data in Excel or Google Sheets.
+All required data operations must be performed with pandas. You are not expected to use NumPy, regular expressions, custom classes, or another data-analysis library. Do not manually clean the data in Excel or Google Sheets.
 
 ## Submission Checklist
 
