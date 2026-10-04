@@ -2,7 +2,7 @@
 
 Your notebook must create these two files in this folder:
 
-- `computer_literacy_cleaned.csv`
-- `entry_level_computing_cleaned.csv`
+- `majors_survey_cleaned.csv`
+- `nonmajors_survey_cleaned.csv`
 
-Do not create these files manually. Generate them with pandas using `DataFrame.to_csv(..., index=False)`, then read them back and verify the results.
+Generate both files with pandas using `DataFrame.to_csv(..., index=False)`. Do not create or clean them manually. Read each saved file back into pandas and verify its shape and columns.
